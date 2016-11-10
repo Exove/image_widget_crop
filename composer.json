@@ -7,12 +7,6 @@
     "issues": "https://www.drupal.org/project/issues/image_widget_crop",
     "source": "https://www.drupal.org/project/image_widget_crop"
   },
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://packages.drupal.org/8"
-    }
-  ],
   "require": {
     "drupal/crop": "1.0.0"
   },
