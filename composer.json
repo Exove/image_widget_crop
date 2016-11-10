@@ -8,7 +8,7 @@
     "source": "https://www.drupal.org/project/image_widget_crop"
   },
   "require": {
-    "drupal/crop": "1.0.0"
+    "drupal/crop": "8.1.0"
   },
   "license": "GPL-2.0+"
 }
